@@ -25,5 +25,21 @@ namespace Soduku
         {
             throw new NotImplementedException();
         }
+
+        internal bool CheckRow()
+        {
+
+            return false;
+        }
+
+        internal bool CheckCol()
+        {
+            return false;
+        }
+
+        internal bool CheckSquare()
+        {
+            return false;
+        }
     }
 }
