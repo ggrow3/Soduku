@@ -26,6 +26,20 @@ namespace Soduku
             
 
         }
+
+        static void Run()
+        {
+           //While All Cells Have more than One Possibility
+            //Go to next row 
+                //Go to next cell in column
+                  //if Cell Possibility > 1
+                    //Check Square Remove Possibilties 
+                    // Check row Remove Possibilities
+                    // Check column Remove Possibilities
+             
+           
+            
+        }
     }
 
     
